@@ -11,10 +11,10 @@
 
 ## Installation
 
-Install create-block-theme with npm
+Install create-fse-theme with npm
 
 ```sh
-npm install create-fse-theme
+npm install -g create-fse-theme
 ```
 
 Or with Yarn, if you prefer that:
