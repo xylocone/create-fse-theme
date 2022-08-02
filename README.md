@@ -9,6 +9,10 @@
 - Scaffolds a Wordpress FSE theme with a single command
 - Exposes some helper binaries
 
+<p align="center">
+    <img src="https://xylocone.files.wordpress.com/2022/08/add-block.gif" alt="terminalizer demo" />
+</p>
+
 ## Installation
 
 Install create-fse-theme with npm
