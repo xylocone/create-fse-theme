@@ -11,6 +11,20 @@
     "create-fse-theme": "./app/cli.js",
     "cft": "./app/cli.js"
   },
+  "keywords": [
+    "scaffolding",
+    "utility",
+    "scaffold-generator",
+    "wordpress",
+    "full-site-editing",
+    "gutenberg",
+    "block theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xylocone/create-fse-theme.git"
+  },
+  "homepage": "https://github.com/xylocone/create-fse-theme",
   "dependencies": {
     "@root/walk": "^1.1.0",
     "chalk": "^5.0.1",
